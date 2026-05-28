@@ -4,15 +4,7 @@
 
 # Eureka
 
-Eureka is a human-in-the-loop LLM agent framework for digital medical research. It helps researchers turn clinical questions, multimodal datasets, and expert feedback into executable analysis workflows while keeping humans responsible for scientific direction, validation, and interpretation.
-
-## Highlights
-
-- Human-AI collaborative research workflow for digital medicine.
-- Iterative loop of reasoning, planning, execution, reflection, and expert feedback.
-- Support for file operations, web search, code execution, data analysis, modeling, and result summarization.
-- Designed for traceable and supervised research rather than fully autonomous discovery.
-- Evaluated on fixed-goal medical AI tasks and an open-goal nephropathy biomarker discovery study.
+Eureka is an LLM-based agent for architecting human–AI collaboration toward trustworthy scientific discovery in digital medicine, combining AI-powered hypothesis generation and execution while keeping humans responsible for scientific direction, validation, and interpretation.
 
 ## Requirements
 
